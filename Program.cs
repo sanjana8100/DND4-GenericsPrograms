@@ -29,6 +29,10 @@
 
             DeleteArrayUsingGenericClass<char> deleteArrayUsingGenericClass3 = new DeleteArrayUsingGenericClass<char>();
             charArray = deleteArrayUsingGenerics.DeleteMethod(charArray, 'd');
+
+            //P4- Given three integers, find the Minimum
+            MinimumOfThree minimumOfThree = new MinimumOfThree();
+            minimumOfThree.FindMinimum(20, 60, 10);
         }
     }
 }
