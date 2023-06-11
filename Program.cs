@@ -33,6 +33,9 @@
             //P4- Given three integers, find the Minimum
             MinimumOfThree minimumOfThree = new MinimumOfThree();
             minimumOfThree.FindMinimum(20, 60, 10);
+
+            //P5- Given three floats, find the Minimum
+            minimumOfThree.FindMinimum(9.54, 5.32, 6.48);
         }
     }
 }

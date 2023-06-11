@@ -21,5 +21,19 @@ namespace DND4_GenericsPrograms
             }
             Console.WriteLine($"The Minimum of the given three numbers {number1}, {number2} and {number3} is: {minimum}");
         }
+
+        public void FindMinimum(double number1, double number2, double number3)
+        {
+            double minimum = number1;
+            if (number2 < minimum)
+            {
+                minimum = number2;
+            }
+            if (number3 < minimum)
+            {
+                minimum = number3;
+            }
+            Console.WriteLine($"The Minimum of the given three numbers {number1}, {number2} and {number3} is: {minimum}");
+        }
     }
 }
