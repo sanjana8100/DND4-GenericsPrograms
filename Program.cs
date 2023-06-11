@@ -14,6 +14,11 @@
             deleteArray.DeleteMethod(doubleArray);
             deleteArray.DeleteMethod(charArray);
 
+            //Delete element in array for int, double and char using Generics
+            DeleteArrayUsingGenerics deleteArrayUsingGenerics = new DeleteArrayUsingGenerics();
+            intArray = deleteArrayUsingGenerics.DeleteMethod(intArray, 20);
+            for (int index = 0; index < intArray.Length; index++) Console.WriteLine(intArray[index]);
+            
         }
     }
 }
