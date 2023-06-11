@@ -1,0 +1,15 @@
+C:\Users\INS 5570\source\repos\DND4-GenericsPrograms\DND4-GenericsPrograms\bin\Debug\net6.0\DND4-GenericsPrograms.exe
+C:\Users\INS 5570\source\repos\DND4-GenericsPrograms\DND4-GenericsPrograms\bin\Debug\net6.0\DND4-GenericsPrograms.deps.json
+C:\Users\INS 5570\source\repos\DND4-GenericsPrograms\DND4-GenericsPrograms\bin\Debug\net6.0\DND4-GenericsPrograms.runtimeconfig.json
+C:\Users\INS 5570\source\repos\DND4-GenericsPrograms\DND4-GenericsPrograms\bin\Debug\net6.0\DND4-GenericsPrograms.dll
+C:\Users\INS 5570\source\repos\DND4-GenericsPrograms\DND4-GenericsPrograms\bin\Debug\net6.0\DND4-GenericsPrograms.pdb
+C:\Users\INS 5570\source\repos\DND4-GenericsPrograms\DND4-GenericsPrograms\obj\Debug\net6.0\DND4-GenericsPrograms.csproj.AssemblyReference.cache
+C:\Users\INS 5570\source\repos\DND4-GenericsPrograms\DND4-GenericsPrograms\obj\Debug\net6.0\DND4-GenericsPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INS 5570\source\repos\DND4-GenericsPrograms\DND4-GenericsPrograms\obj\Debug\net6.0\DND4-GenericsPrograms.AssemblyInfoInputs.cache
+C:\Users\INS 5570\source\repos\DND4-GenericsPrograms\DND4-GenericsPrograms\obj\Debug\net6.0\DND4-GenericsPrograms.AssemblyInfo.cs
+C:\Users\INS 5570\source\repos\DND4-GenericsPrograms\DND4-GenericsPrograms\obj\Debug\net6.0\DND4-GenericsPrograms.csproj.CoreCompileInputs.cache
+C:\Users\INS 5570\source\repos\DND4-GenericsPrograms\DND4-GenericsPrograms\obj\Debug\net6.0\DND4-GenericsPrograms.dll
+C:\Users\INS 5570\source\repos\DND4-GenericsPrograms\DND4-GenericsPrograms\obj\Debug\net6.0\refint\DND4-GenericsPrograms.dll
+C:\Users\INS 5570\source\repos\DND4-GenericsPrograms\DND4-GenericsPrograms\obj\Debug\net6.0\DND4-GenericsPrograms.pdb
+C:\Users\INS 5570\source\repos\DND4-GenericsPrograms\DND4-GenericsPrograms\obj\Debug\net6.0\DND4-GenericsPrograms.genruntimeconfig.cache
+C:\Users\INS 5570\source\repos\DND4-GenericsPrograms\DND4-GenericsPrograms\obj\Debug\net6.0\ref\DND4-GenericsPrograms.dll
