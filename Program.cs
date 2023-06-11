@@ -40,11 +40,24 @@
             //P6- Given three strings, find the Minimum
             minimumOfThree.FindMinimum("apple", "orange", "mango");
 
-            //P7- Given three elements of type integer, float and string, find the Minimum
+            //P7- Given three elements of type integer, float and string, find the Minimum using Generics
             MinimumOfThreeUsingGenerics minimumOfThreeUsingGenerics = new MinimumOfThreeUsingGenerics();
             minimumOfThreeUsingGenerics.FindMinimum(80, 50, 60);
             minimumOfThreeUsingGenerics.FindMinimum(6.6, 9.4, 8.8);
             minimumOfThreeUsingGenerics.FindMinimum("rose", "tulip", "sunflower");
+
+            //P8- Given three elements of type integer, float and string, find the Minimum using Generic Class
+            /*  - Ensure the Generic Type extends Comparable
+             *  - Write Parameter constructor to the class which can take in 3 variables of Generic Type
+             *  - Write TestMinimum method to internally call the static FindMinimum Method passing the three instance variables */
+            MinimumOfThreeUsingGenericClass<int> minimumOfThree1 = new MinimumOfThreeUsingGenericClass<int>(50, 70, 40);
+            minimumOfThree1.TestMinimum();
+
+            MinimumOfThreeUsingGenericClass<double> minimumOfThree2 = new MinimumOfThreeUsingGenericClass<double>(6.2, 2.0, 4.5);
+            minimumOfThree2.TestMinimum();
+
+            MinimumOfThreeUsingGenericClass<string> minimumOfThree3 = new MinimumOfThreeUsingGenericClass<string>("dog", "cat", "rabbit");
+            minimumOfThree3.TestMinimum();
         }
     }
 }
