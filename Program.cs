@@ -36,6 +36,9 @@
 
             //P5- Given three floats, find the Minimum
             minimumOfThree.FindMinimum(9.54, 5.32, 6.48);
+
+            //P6- Given three strings, find the Minimum
+            minimumOfThree.FindMinimum("apple", "orange", "mango");
         }
     }
 }
