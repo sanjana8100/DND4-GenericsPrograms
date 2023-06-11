@@ -23,7 +23,7 @@ namespace DND4_GenericsPrograms
                     newIndex++;
                 }
             }
-            Console.WriteLine("Array after deleting the element: ");
+            Console.WriteLine("Array after deleting the element " + element + ": ");
             for (int index = 0; index < newArray.Length; index++) Console.WriteLine(newArray[index]);
         }
 
@@ -42,7 +42,7 @@ namespace DND4_GenericsPrograms
                     newIndex++;
                 }
             }
-            Console.WriteLine("Array after deleting the element: ");
+            Console.WriteLine("Array after deleting the element " + element + ": ");
             for (int index = 0; index < newArray.Length; index++) Console.WriteLine(newArray[index]);
         }
 
@@ -61,7 +61,7 @@ namespace DND4_GenericsPrograms
                     newIndex++;
                 }
             }
-            Console.WriteLine("Array after deleting the element: ");
+            Console.WriteLine("Array after deleting the element " + element + ": ");
             for (int index = 0; index < newArray.Length; index++) Console.WriteLine(newArray[index]);
         }
     }

@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace DND4_GenericsPrograms
 {
-    internal class DeleteArrayUsingGenerics
+    internal class DeleteArrayUsingGenericClass <T>
     {
-        public T[] DeleteMethod<T>(T[] array, T element)
+        public T[] DeleteMethod(T[] array, T element)
         {
             T[] newArray = new T[array.Length - 1];
             int newIndex = 0;
