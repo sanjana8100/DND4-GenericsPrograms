@@ -35,10 +35,16 @@
             minimumOfThree.FindMinimum(20, 60, 10);
 
             //P5- Given three floats, find the Minimum
-            minimumOfThree.FindMinimum(9.54, 5.32, 6.48);
+            minimumOfThree.FindMinimum(9.5, 5.32, 6.48);
 
             //P6- Given three strings, find the Minimum
             minimumOfThree.FindMinimum("apple", "orange", "mango");
+
+            //P7- Given three elements of type integer, float and string, find the Minimum
+            MinimumOfThreeUsingGenerics minimumOfThreeUsingGenerics = new MinimumOfThreeUsingGenerics();
+            minimumOfThreeUsingGenerics.FindMinimum(80, 50, 60);
+            minimumOfThreeUsingGenerics.FindMinimum(6.6, 9.4, 8.8);
+            minimumOfThreeUsingGenerics.FindMinimum("rose", "tulip", "sunflower");
         }
     }
 }

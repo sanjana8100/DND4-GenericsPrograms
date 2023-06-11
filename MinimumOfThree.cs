@@ -47,7 +47,7 @@ namespace DND4_GenericsPrograms
             {
                 minimum = string3;
             }
-            Console.WriteLine($"The Minimum of the given three numbers {string1}, {string2} and {string3} is: {minimum}");
+            Console.WriteLine($"The Minimum of the given three strings {string1}, {string2} and {string3} is: {minimum}");
         }
     }
 }
